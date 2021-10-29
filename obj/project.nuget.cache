@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4pgBcqA2m2kBxGCSyHpYJaFGVd8EmYYDNQyyzJLpuCKv/yUH4GQeJDUhcNbxJPabTDw68vXWwPUdKa8W0J8VzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\BookShop\\Bookshop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.data.sqlite.core\\1.0.112.2\\system.data.sqlite.core.1.0.112.2.nupkg.sha512"
+  ],
+  "logs": []
+}
