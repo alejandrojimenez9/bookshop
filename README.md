@@ -1,4 +1,4 @@
-# Tienda de Libros
+# Libreria
 Aplicación C # Windows Form para almacenar datos de libros en una librería. 
 
 ## Lenguajes y herramientas de desarrollo 🛠
