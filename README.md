@@ -1,4 +1,4 @@
-# bookshop ![alt text](https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png)
+# bookshop ![alt text](https://docs.microsoft.com/es-es/windows/images/csharp-logo.png)
 Aplicación C # Windows Form para almacenar datos de libros en una librería. 
 
 ## Contribuyendo 📝
