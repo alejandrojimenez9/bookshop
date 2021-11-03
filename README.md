@@ -1,8 +1,8 @@
 # bookshop 
 Aplicación C # Windows Form para almacenar datos de libros en una librería. 
 
-## Construido con 🛠
-![alt text](https://docs.microsoft.com/es-es/windows/images/csharp-logo.png)
+## Lenguajes y herramientas de desarrollo 🛠
+![alt text](https://docs.microsoft.com/es-es/windows/images/csharp-logo.png) ![alt text](https://repairkb.com/img/database/sqlite/sqlite-database.png) ![alt text](https://www.12caracteristicas.com/wp-content/uploads/2018/11/visual.png) 
 
 ## Contribuyendo 📝
 Este es un proyecto open-source y nos interesa que lo apoyes haciendo cualquier contribución o mejora al código. 😉
